@@ -1,102 +1,42 @@
-# 🌐 Portfolio Personnel — Antonio Silos
-🇫🇷 [Français] | 🇧🇷 [Português](README.md)
-## 📌 À propos du projet
+# Portfolio — Antonio Silos
 
-Ce projet représente mon portfolio personnel, développé avec un souci particulier de structure, performance et respect des bonnes pratiques du développement front-end.
+Portfolio professionnel statique réalisé en HTML, CSS et JavaScript. Il présente mon parcours en développement logiciel, mes projets et mon expérience des systèmes d’entreprise.
 
-Au-delà d’une simple vitrine de projets, ce site reflète mon évolution professionnelle en tant que développeur et mon engagement envers un code propre, une structure sémantique claire et une expérience utilisateur soignée.
+**Domaine :** Python · Backend · Web
+**Langues du site :** Português · Français · English
+**Accès :** https://antoniosnportifolio.netlify.app/
 
-L’objectif principal est de proposer une interface moderne, responsive et professionnelle pour présenter :
+## Projets sélectionnés
 
-- Mes projets
-- Mes compétences techniques
-- Mon parcours
-- Mes informations de contact
+- **Equilibrium** — application web multi-utilisateur pour gérer les patients, les rendez-vous et les séances à distance. [Étude de cas](projects/equilibrium.html) · [GitHub](https://github.com/Silos-Antonio/Projeto-Equilibrium)
+- **Profil de crédit** — analyse de données et classification avec Python, Pandas et Scikit-learn. [Notebook](https://github.com/Silos-Antonio/Projeto-PythonIA/blob/main/inicial.ipynb)
+- **Site pour une thérapeute** — projet web répondant à un besoin réel. [GitHub](https://github.com/Silos-Antonio/LP-Reiki-Cicera)
 
----
+## Technologies du portfolio
 
-## 🚀 Technologies utilisées
+- HTML sémantique
+- CSS responsive
+- JavaScript natif
+- Internationalisation avec des dictionnaires locaux et une préférence de langue
 
-- **HTML5** → Structure sémantique et accessibilité
-- **CSS3** → Mise en page moderne et design responsive
-- **JavaScript** → Interactions et dynamisme de l’interface
+## Structure
 
----
+    .
+    ├── assets/
+    │   ├── css/style.css
+    │   ├── images/
+    │   └── js/
+    │       ├── script.js
+    │       └── translations.js
+    ├── projects/
+    │   └── equilibrium.html
+    ├── index.html
+    └── google450156a250680164.html
 
-## 🎯 Concepts techniques appliqués
+Aucune compilation ni dépendance de framework n’est nécessaire. Pour ouvrir le site localement, ouvrez index.html dans un navigateur.
 
-✔️ HTML sémantique  
-✔️ Approche responsive (Mobile First)  
-✔️ Utilisation de Flexbox pour la mise en page  
-✔️ Séparation claire des responsabilités (HTML / CSS / JS)  
-✔️ Organisation propre et maintenable du code  
-✔️ Principes fondamentaux d’expérience utilisateur (UX)
+## Contact
 
----
-
-## 📱 Responsive Design
-
-L’interface a été conçue pour s’adapter à différents formats d’écran :
-
-- 📱 Mobile
-- 💻 Ordinateur portable
-- 🖥️ Grand écran
-
-La responsivité a été mise en œuvre à l’aide de media queries et des bonnes pratiques CSS modernes.
-
----
-
-## 🌍 Version en ligne
-
-Le projet est accessible à l’adresse suivante :
-
-🔗 https://antoniosnportifolio.netlify.app/
-
----
-
-## 📂 Structure du projet
-
-```bash
-📁 PORTFOLIO
-│
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   ├── images/
-│   └── js/
-│
-├── google450156a250680164.html
-├── index.html
-├── LICENSE
-└── README.md
-```
-
----
-
-## 🔄 État du projet
-
-✅ Projet finalisé  
-🔄 En amélioration continue  
-
-Ce portfolio évolue régulièrement afin d’intégrer de nouveaux projets et de refléter le développement progressif de mes compétences.
-
----
-
-## 💡 Objectif professionnel
-
-Ce projet marque une étape importante dans mon parcours vers le développement web professionnel.
-
-Je poursuis actuellement mon évolution dans les domaines suivants :
-
-- Développement Front-End
-- Data & Intelligence Artificielle
-- Conception de solutions numériques orientées valeur
-
----
-
-## 👨‍💻 Auteur
-
-**Antonio Silos**
-
-🔗 LinkedIn : https://linkedin.com/in/antonio-silos-415b64175  
-🔗 GitHub : https://github.com/Silos-Antonio
+- [GitHub](https://github.com/Silos-Antonio)
+- [LinkedIn](https://www.linkedin.com/in/antonio-silos-415b64175)
+- [Email](mailto:antonio.silos@outlook.com.br)

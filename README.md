@@ -1,105 +1,42 @@
-# 🌐 Portfólio Pessoal — Antonio Silos
+# Portfólio — Antonio Silos
 
-🇧🇷 Português | 🇫🇷 [Français](README.fr.md)
+Portfólio profissional estático construído com HTML, CSS e JavaScript. Apresenta minha trajetória em desenvolvimento de software, projetos e experiência com sistemas empresariais.
 
-## 📌 Sobre o Projeto
+**Foco:** Python · Backend · Web
+**Idiomas do site:** Português · Français · English
+**Acesso:** https://antoniosnportifolio.netlify.app/
 
-Este projeto é meu portfólio pessoal, desenvolvido com foco em organização, performance e boas práticas de desenvolvimento front-end.
+## Projetos em destaque
 
-Mais do que uma vitrine de projetos, ele representa minha evolução como desenvolvedor e meu compromisso com código limpo, estrutura semântica e experiência do usuário.
+- **Equilibrium** — aplicação web multiusuário para terapeutas gerenciarem pacientes, agendamentos e sessões remotas. [Case](projects/equilibrium.html) · [GitHub](https://github.com/Silos-Antonio/Projeto-Equilibrium)
+- **Perfil de crédito** — análise de dados e classificação com Python, Pandas e Scikit-learn. [Notebook](https://github.com/Silos-Antonio/Projeto-PythonIA/blob/main/inicial.ipynb)
+- **Landing page para terapeuta** — projeto web para uma necessidade real. [GitHub](https://github.com/Silos-Antonio/LP-Reiki-Cicera)
 
-O objetivo foi criar uma interface moderna, responsiva e profissional para apresentar:
+## Tecnologias do portfólio
 
-- Projetos desenvolvidos
-- Habilidades técnicas
-- Experiências
-- Informações de contato
+- HTML semântico
+- CSS responsivo
+- JavaScript nativo
+- Internacionalização com dicionários locais e preferência de idioma
 
----
+## Estrutura
 
-## 🚀 Tecnologias Utilizadas
+    .
+    ├── assets/
+    │   ├── css/style.css
+    │   ├── images/
+    │   └── js/
+    │       ├── script.js
+    │       └── translations.js
+    ├── projects/
+    │   └── equilibrium.html
+    ├── index.html
+    └── google450156a250680164.html
 
-- **HTML5** → Estrutura semântica e acessível
-- **CSS3** → Estilização moderna e responsividade
-- **JavaScript** → Interações e dinamismo da interface
+O site não exige etapa de build nem dependências de framework. Para conferir localmente, abra index.html em um navegador.
 
----
+## Contato
 
-## 🎯 Principais Conceitos Aplicados
-
-✔️ HTML semântico  
-✔️ Layout responsivo (Mobile First)  
-✔️ Flexbox e organização estrutural  
-✔️ Separação clara de responsabilidades (HTML / CSS / JS)  
-✔️ Boas práticas de organização de código  
-✔️ Experiência do usuário (UX básica)
-
----
-
-## 📱 Responsividade
-
-O layout foi desenvolvido para se adaptar a diferentes tamanhos de tela:
-
-- 📱 Mobile
-- 💻 Desktop
-- 🖥️ Telas maiores
-
-A responsividade foi implementada utilizando media queries e boas práticas de CSS moderno.
-
----
-
-## 🌍 Visualização Online
-
-Você pode acessar o projeto em:
-
-🔗 **https://antoniosnportifolio.netlify.app/**
-
----
-
-## 📂 Estrutura do Projeto
-
-```bash
-📁 PORTFOLIO
-│
-├── assets/
-│   ├── css/
-│   │   └── style.css
-│   ├── images/
-│   └── js/
-│
-├── google450156a250680164.html
-├── index.html
-├── LICENSE
-└── README.md
-```
-```
-
----
-
-## 🔄 Status do Projeto
-
-✅ Concluído  
-🔄 Em constante evolução  
-
-Este portfólio é atualizado à medida que desenvolvo novos projetos e aprimoro minhas habilidades.
-
----
-
-## 💡 Objetivo Profissional
-
-Este projeto representa minha transição para a área de tecnologia e meu compromisso com aprendizado contínuo.
-
-Estou em constante evolução nas áreas de:
-
-- Desenvolvimento Front-End
-- Dados e Inteligência Artificial
-- Construção de soluções digitais orientadas a valor
-
----
-
-## 👨‍💻 Autor
-
-**Antonio Silos**
-
-🔗 LinkedIn: https://linkedin.com/in/antonio-silos-415b64175  
-🔗 GitHub: https://github.com/Silos-Antonio
+- [GitHub](https://github.com/Silos-Antonio)
+- [LinkedIn](https://www.linkedin.com/in/antonio-silos-415b64175)
+- [Email](mailto:antonio.silos@outlook.com.br)
